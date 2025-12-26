@@ -1,0 +1,6 @@
+SOLUTION:-
+  IN THIS PROBLEM WE WILL RUN A LOOP THROUGH "C"( string c, consisting of the characters 'V' and 'D' — the distribution of the characters of string b between Dima and Vlad. )
+  IF C[I] == V: APPEND B[I] TO THE BEGGINIG OF A BY USING "INSERT" FUNCTION.
+  ELSE C[I] == D: APPEND B[I] TO LAST OF  A BY USING "APPEND" FUNCTION.
+
+CODE:
